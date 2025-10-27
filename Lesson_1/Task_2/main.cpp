@@ -51,4 +51,5 @@ int main()
         cout << "Error: Unknown operation" << endl;
         break;
     }
+    return 0;
 }
