@@ -8,7 +8,7 @@ int main()
     int row = 0;
 
     char choice;
-     cout << "Enter number of columns: ";
+    cout << "Enter number of columns: ";
     cin >> column;
 
     cout << "Enter number of rows: ";
